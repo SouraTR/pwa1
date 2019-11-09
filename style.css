@@ -1,0 +1,53 @@
+*{
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+#container{
+  width: 1080px;
+  height: 2160px;
+  text-align: center;
+}
+
+#bg{
+  border: 0;
+  padding: 0;
+  
+}
+
+
+#date{
+	font-family: 'Roboto', sans-serif;
+	font-size: 34px;
+	position: relative;
+	top: -1900px;
+	color: rgb(230,230,230);
+	text-align: centre;
+	
+}
+
+
+#amount1{
+  font-family: 'Roboto', sans-serif;
+  //font-weight: 400;
+  font-weight: 550;
+  font-size: 55px;
+  position: relative;
+  text-align: right;
+  right: 40px;
+  top: -1370px;
+}
+
+#amount2{
+  font-family: 'Roboto', sans-serif;
+  font-size: 44px;
+  position: relative;
+  text-align: right;
+  right: 40px;
+  top: -675px;
+  //without star 
+  //top: -985px;
+   
+}
+
+    

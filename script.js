@@ -21,7 +21,6 @@ else if (y == "rkb") {
 }
 else if (y == "cb") {
 	document.getElementById("bg").src = "./images/cb.jpg";
-	document.getElementById("amount2").style.top = "-985px"
 }
 else if (y == "ut") {
 	document.getElementById("bg").src = "./images/ut.jpg";

@@ -4,7 +4,7 @@
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "white",
-    "theme_color": "purple",
+    "theme_color": "#6639B6",
     "orientation": "portrait-primary",
     "icons": [
         {
@@ -48,5 +48,5 @@
           "sizes": "512x512"
         }
       ]
-    }
-    }
+}
+    

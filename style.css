@@ -5,7 +5,7 @@
 }
 #container{
   width: 1080px;
-  height: 2160px;
+  height: 2159px;
   text-align: center;
 }
 
@@ -28,8 +28,7 @@
 
 
 #amount1{
-  font-family: 'Roboto', sans-serif;
-  //font-weight: 400;
+  font-family: 'Roboto';
   font-weight: 550;
   font-size: 55px;
   position: relative;
